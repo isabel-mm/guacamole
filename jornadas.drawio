@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="5BztQn5_08TIMHJcGIpN-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=12;fontColor=default;labelBorderColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-2" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="Recopilación de Textos sobre Lingüística" style="shape=manual;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBorderColor=none;html=1;verticalAlign=middle;fontFamily=Lucida Console;rounded=1;strokeColor=default;align=center;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="45" y="40" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Creación del Dataset (Etiquetado)" style="shape=manual;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBorderColor=none;html=1;verticalAlign=middle;fontFamily=Lucida Console;rounded=1;strokeColor=default;align=center;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="45" y="120" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5BztQn5_08TIMHJcGIpN-33" value="Entrenamiento con Ejemplos Etiquetados" style="shape=manual;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBorderColor=none;html=1;verticalAlign=middle;fontFamily=Lucida Console;rounded=1;strokeColor=default;align=center;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="45" y="200" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5BztQn5_08TIMHJcGIpN-34" value="Uso de Algoritmos de Aprendizaje Supervisado" style="shape=manual;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBorderColor=none;html=1;verticalAlign=middle;fontFamily=Lucida Console;rounded=1;strokeColor=default;align=center;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="45" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5BztQn5_08TIMHJcGIpN-35" value="Evaluación del Modelo" style="shape=manual;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBorderColor=none;html=1;verticalAlign=middle;fontFamily=Lucida Console;rounded=1;strokeColor=default;align=center;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="45" y="360" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5BztQn5_08TIMHJcGIpN-36" value="Ajustes y Mejora del Modelo" style="shape=manual;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBorderColor=none;html=1;verticalAlign=middle;fontFamily=Lucida Console;rounded=1;strokeColor=default;align=center;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="45" y="440" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5BztQn5_08TIMHJcGIpN-37" value="Modelo Final" style="shape=manual;whiteSpace=wrap;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBorderColor=none;html=1;verticalAlign=middle;fontFamily=Lucida Console;rounded=1;strokeColor=default;align=center;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="45" y="520" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5BztQn5_08TIMHJcGIpN-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=12;fontColor=default;labelBorderColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-2" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
