@@ -1,75 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mxfile host="app.diagrams.net">
-  <diagram name="Página-1" id="g4ooy7iNm2qr5d9m8F_q">
-    <mxGraphModel dx="1101" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Página-1">
+    <mxGraphModel dx="1023" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" value="" style="group" vertex="1" connectable="0">
           <mxGeometry x="0" y="0" width="1" height="1" as="geometry"/>
         </mxCell>
-        <mxCell id="1" value="Término" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1">
-          <mxGeometry x="200" y="100" width="100" height="50" as="geometry"/>
+        <mxCell id="1" value="Término" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#E5E5E5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1">
+          <mxGeometry x="200" y="100" width="150" height="60" as="geometry"/>
         </mxCell>
 
         <!-- Subcategorías de Forma -->
-        <mxCell id="2" value="Monoléxico" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="200" width="100" height="50" as="geometry"/>
+        <mxCell id="2" value="Monoléxico" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#F9F9F9;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="3" value="Poliléxico" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="350" y="200" width="100" height="50" as="geometry"/>
+        <mxCell id="3" value="Poliléxico" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#F9F9F9;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="120" height="60" as="geometry"/>
         </mxCell>
 
         <!-- Subcategorías de Poliléxico -->
-        <mxCell id="4" value="Composicional" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="3" vertex="1">
-          <mxGeometry x="200" y="300" width="100" height="50" as="geometry"/>
+        <mxCell id="4" value="Composicional" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="3">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="5" value="No Composicional" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="3" vertex="1">
-          <mxGeometry x="500" y="300" width="100" height="50" as="geometry"/>
+        <mxCell id="5" value="No Composicional" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="3">
+          <mxGeometry x="400" y="400" width="120" height="60" as="geometry"/>
         </mxCell>
 
         <!-- Subcategorías de Categoría Gramatical -->
-        <mxCell id="6" value="Sustantivos" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="400" width="100" height="50" as="geometry"/>
+        <mxCell id="6" value="Sustantivos" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="7" value="Verbos" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="200" y="400" width="100" height="50" as="geometry"/>
+        <mxCell id="7" value="Verbos" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="8" value="Adjetivos" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="350" y="400" width="100" height="50" as="geometry"/>
+        <mxCell id="8" value="Adjetivos" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="500" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="9" value="Adverbios" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="500" y="400" width="100" height="50" as="geometry"/>
+        <mxCell id="9" value="Adverbios" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="120" height="60" as="geometry"/>
         </mxCell>
 
         <!-- Subcategorías de Semántica -->
-        <mxCell id="10" value="Entidad" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="500" width="100" height="50" as="geometry"/>
+        <mxCell id="10" value="Entidad" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="600" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="11" value="Actividad" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="200" y="500" width="100" height="50" as="geometry"/>
+        <mxCell id="11" value="Actividad" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="12" value="Propiedad" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="350" y="500" width="100" height="50" as="geometry"/>
+        <mxCell id="12" value="Propiedad" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="350" y="600" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="13" value="Relación" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="500" y="500" width="100" height="50" as="geometry"/>
+        <mxCell id="13" value="Relación" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="500" y="600" width="120" height="60" as="geometry"/>
         </mxCell>
 
         <!-- Subcategorías de Relación con el dominio -->
-        <mxCell id="14" value="Específico del dominio" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="600" width="150" height="50" as="geometry"/>
+        <mxCell id="14" value="Específico del dominio" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="50" y="700" width="150" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="15" value="Del dominio pero presente en otros dominios" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="200" y="600" width="250" height="50" as="geometry"/>
+        <mxCell id="15" value="Del dominio pero presente en otros dominios" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="700" width="250" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="16" value="Fuera del dominio" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="500" y="600" width="100" height="50" as="geometry"/>
+        <mxCell id="16" value="Fuera del dominio" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#FFFFFF;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="500" y="700" width="120" height="60" as="geometry"/>
         </mxCell>
 
         <!-- Conexiones entre los elementos -->
         <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="2"/>
-        <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="2" target="4"/>
-        <mxCell id="19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="2" target="5"/>
-        <!-- Aquí continúan las demás conexiones según la jerarquía -->
+        <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="3"/>
+        <mxCell id="19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="3" target="4"/>
+        <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="3" target="5"/>
+        <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="6"/>
+        <mxCell id="22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="7"/>
+        <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="8"/>
+        <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="9"/>
+        <mxCell id="25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="10"/>
+        <mxCell id="26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="11"/>
+        <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="12"/>
+        <mxCell id="28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="13"/>
+        <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="14"/>
+        <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="15"/>
+        <mxCell id="31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1" edge="1" parent="1" source="1" target="16"/>
       </root>
     </mxGraphModel>
   </diagram>
